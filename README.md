@@ -34,15 +34,23 @@
 <h4>Interface web. (Voir capture d'écran de l'Office de Tourisme de Martigues)</h4>
 <p>Cette nouvelle interface n'utilise pas de fichier config car tout les paramètres sont passés via son URL. Cette version faisait partie de l'ancien Extranet de l'Office de Tourisme de Martigues et en reprends son template css.</p>
 	
-<p><b>Paramètre URL : </b></p>
+Nous avons à présent un formulaire qui va générer une URL avec les clefs en paramètres.
+
+Le formulaire : 
+
+![image](https://github.com/user-attachments/assets/e5cc45d9-b945-4de0-99ae-bb321e092d8b)
+
+<p><b>Paramètres URL générés par le formulaire : </b></p>
 
 <p>api-rest/<b>index.php</b>?<b>public</b>=12345678912346789&<b>secret</b>=12345678912346789&<b>apiKey</b>=V0ACBDE&<b>projetId</b>=1234&<b>selectionIds</b>=13000&<b>test=oui</b></p>
+Vous pouvez à présent, une fois que tout est correctement entré, garder votre URL dans vos favories.
+
+Où se procurer les clefs et autres paramêtres : 
 
 <p>Les Clefs "<b>public</b>" et "<b>secret</b>" sont tirées de votre <b>OpenAgenda</b> et <b>ApiKey</b>, <b>projecId</b>, <b>selectionIds</b> sont disponibles sur votre projet APIDAE. Vous avez un descriptif plus bas dans ce Readme.</p>
 <p> Le code source est fonctionnel : </p>
 
-
-![Capture d'écran 2025-02-17 115023](https://github.com/user-attachments/assets/15837705-2f28-4943-abed-4da18d22424a)
+![Capture d'écran 2025-02-19 112646](https://github.com/user-attachments/assets/b69d7ed4-b4ea-4615-b087-24032851f78a)
 
 -------
 
@@ -152,6 +160,9 @@ Nous avons à transmetre sur l'OpenAgenda :
 * keywords est utilisé pour les mots clefs (exemple keywords : Tourisme, Historique, Environnement / Développement durable )
 * timings pour les horaires d'ouvertures
 * slug utiliser pour le titre de l'annonce. 
+
+
+
 
 
 
