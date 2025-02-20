@@ -12,20 +12,18 @@ Ce projet permet de faire le lien entre l'API d'APIDAE et OPEN Agenda, facilitan
 ## Fonctionnalité
 
 L'API permet de :
-- Publier des événements d'APIDAE vers OPEN Agenda.
-- Établir une liaison sécurisée entre les deux plateforme grâce à l'utilisation de clés API.
+- Publier des événements d'APIDAE vers OPEN Agenda en établissant une liaison sécurisée entre les deux plateforme grâce à l'utilisation de clés API.
 
 ## Prérequis
 
 ### Clés API
 
-Pour utiliser cette API, vous aurez besoin de d'un ensemble de clés :
+Pour utiliser cette API, vous aurez besoin d'un ensemble de clés :
 
 1. **Clés APIDAE** : Ces clés sont récupérées depuis votre compte administrateur après la création d'un projet dans l'interface APIDAE.
 
 ![201097699-030a5f8c-662f-43d0-990a-a461ed11c8d7](https://github.com/user-attachments/assets/68e819d5-9504-4572-85d9-674878095144)
 
-   
 2. **Clés Open Agenda** : Pour obtenir ces clés, vous devez contacter l'équipe technique d'Open Agenda par email. Vous recevrez ensuite une clé publique et une clé privée (aussi appelée clé secrète).
 
    - Pour activer la clé privée, vous devez envoyer une demande par email à `support@openagenda.com`. Cette clé est nécessaire pour effectuer des opérations d'écriture sur Open Agenda.
