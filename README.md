@@ -4,6 +4,7 @@
 	<img alt="Office de Tourisme de Martigues" src="https://user-images.githubusercontent.com/8257981/201097229-43a65b5a-5801-4542-ba78-9ad476939cee.png" />
 </div>
 
+
 # API de publication d'événements d'APIDAE vers OPEN Agenda
 
 Ce projet permet de faire le lien entre l'API d'APIDAE et OPEN Agenda, facilitant la publication d'événements depuis APIDAE vers OPEN Agenda.
@@ -37,6 +38,11 @@ Pour utiliser cette API, vous aurez besoin de d'un ensemble de clés :
 Un formulaire est mis à disposition pour saisir vos clés APIDAE et Open Agenda. Ce formulaire est également disponible dans ce repository GitHub. Une fois les clés saisies, elles seront utilisées pour établir une connexion sécurisée et temporaire entre votre compte APIDAE et Open Agenda.
 
 ![Capture d'écran 2025-02-20 163006](https://github.com/user-attachments/assets/33ebfe33-7587-48cb-add3-f9fe11b46b87)
+
+Vous pouvez, une fois la nouvelle page ouverte, garder la page d'exportation des événements en favoris. vous n'aurez ainsi plus à saisir les clefs. 
+
+![Capture d'écran 2025-02-20 165307](https://github.com/user-attachments/assets/b01ed363-ce8c-4146-b251-65e266988ca8)
+
 
 ## Installation
 
