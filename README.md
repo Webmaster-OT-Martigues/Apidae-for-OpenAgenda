@@ -36,6 +36,8 @@ Pour utiliser cette API, vous aurez besoin de d'un ensemble de clés :
 
 Un formulaire est mis à disposition pour saisir vos clés APIDAE et Open Agenda. Ce formulaire est également disponible dans ce repository GitHub. Une fois les clés saisies, elles seront utilisées pour établir une connexion sécurisée et temporaire entre votre compte APIDAE et Open Agenda.
 
+![Capture d'écran 2025-02-20 163006](https://github.com/user-attachments/assets/33ebfe33-7587-48cb-add3-f9fe11b46b87)
+
 ## Installation
 
 1. Clonez ce repository :
