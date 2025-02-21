@@ -42,6 +42,67 @@ Vous pouvez, une fois la nouvelle page ouverte, garder la page d'exportation des
 ![Capture d'écran 2025-02-20 165307](https://github.com/user-attachments/assets/b01ed363-ce8c-4146-b251-65e266988ca8)
 
 
+
+Structure du dépot 
+:
+└── webmaster-ot-martigues-apidae-for-openagenda/
+    ├── README.md /* ce document */
+    ├── edit.php
+    ├── index.php /* formulaire du 
+    ├── css/
+    │   ├── desktop.ini
+    │   ├── form.css
+    │   ├── icons.css
+    │   ├── lightbox.css
+    │   ├── style-white.css
+    │   └── style.css
+    ├── fonts/
+    │   ├── desktop.ini
+    │   ├── fontawesome/
+    │   │   ├── desktop.ini
+    │   │   ├── fontawesome-webfontba72.eot
+    │   │   ├── fontawesome-webfontba72.ttf
+    │   │   ├── fontawesome-webfontba72.woff
+    │   │   └── fontawesome-webfontd41d.eot
+    │   ├── icons/
+    │   │   ├── desktop.ini
+    │   │   └── icon.woff
+    │   └── open-sans/
+    │       ├── OpenSans-Light-webfont.eot
+    │       ├── OpenSans-Light-webfont.ttf
+    │       ├── OpenSans-Light-webfont.woff
+    │       ├── OpenSans-Light-webfontd41d.eot
+    │       ├── OpenSans-Regular-webfont.eot
+    │       ├── OpenSans-Regular-webfont.ttf
+    │       ├── OpenSans-Regular-webfont.woff
+    │       ├── OpenSans-Regular-webfontd41d.eot
+    │       ├── OpenSans-Semibold-webfont.eot
+    │       ├── OpenSans-Semibold-webfont.ttf
+    │       ├── OpenSans-Semibold-webfont.woff
+    │       ├── OpenSans-Semibold-webfontd41d.eot
+    │       ├── desktop.ini
+    │       └── index.html
+    ├── img/
+    │   ├── body/
+    │   │   └── desktop.ini
+    │   └── icon/
+    │       └── desktop.ini
+    ├── js/
+    │   ├── desktop.ini
+    │   ├── easypiechart.js
+    │   ├── functions.js
+    │   ├── icheck.js
+    │   ├── jquery.dataTables.js
+    │   ├── jquery.easing.1.3.js
+    │   └── summernote.js
+    └── pages/
+        ├── config.php
+        ├── fonction.php
+        ├── fonctions_API.php
+        ├── head.php
+        └── header_index.php
+
+
 ## Installation
 
 1. Clonez ce repository :
