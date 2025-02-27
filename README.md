@@ -47,8 +47,8 @@ Structure du dépot <br>
 : <br>
 └── webmaster-ot-martigues-apidae-for-openagenda/<br>
     ├── README.md /* ce document */<br>
-    ├── edit.php<br>
-    ├── index.php /* formulaire de l'API <br>
+    ├── edit.php /* API export */ <br> 
+    ├── index.php /* formulaire de l'API <br> */ 
     ├── css/<br>
     │   ├── form.css<br>
     │   ├── icons.css<br>
@@ -76,7 +76,7 @@ Structure du dépot <br>
     │       ├── OpenSans-Semibold-webfont.ttf<br>
     │       ├── OpenSans-Semibold-webfont.woff<br>
     │       ├── OpenSans-Semibold-webfontd41d.eot<br>
-        │       └── index.html<br>
+    │     
     ├── img/
     │   ├── body<br>
     │   └── icon<br>
@@ -99,7 +99,7 @@ Structure du dépot <br>
 
 ## Installation
 
-1. Clonez ce repository :
+1. Clonez ce repository / modifiez et partagez :
    ```bash
    git clone [https://github.com/yourusername/nom-du-projet](https://github.com/Webmaster-OT-Martigues/Apidae-for-OpenAgenda).git
 
