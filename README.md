@@ -43,55 +43,47 @@ Vous pouvez, une fois la nouvelle page ouverte, garder la page d'exportation des
 
 
 
-Structure du dépot 
-:
-└── webmaster-ot-martigues-apidae-for-openagenda/
-    ├── README.md /* ce document */
-    ├── edit.php
-    ├── index.php /* formulaire du 
-    ├── css/
-    │   ├── desktop.ini
-    │   ├── form.css
-    │   ├── icons.css
-    │   ├── lightbox.css
-    │   ├── style-white.css
-    │   └── style.css
-    ├── fonts/
-    │   ├── desktop.ini
-    │   ├── fontawesome/
-    │   │   ├── desktop.ini
-    │   │   ├── fontawesome-webfontba72.eot
-    │   │   ├── fontawesome-webfontba72.ttf
-    │   │   ├── fontawesome-webfontba72.woff
-    │   │   └── fontawesome-webfontd41d.eot
-    │   ├── icons/
-    │   │   ├── desktop.ini
-    │   │   └── icon.woff
-    │   └── open-sans/
-    │       ├── OpenSans-Light-webfont.eot
-    │       ├── OpenSans-Light-webfont.ttf
-    │       ├── OpenSans-Light-webfont.woff
-    │       ├── OpenSans-Light-webfontd41d.eot
-    │       ├── OpenSans-Regular-webfont.eot
-    │       ├── OpenSans-Regular-webfont.ttf
-    │       ├── OpenSans-Regular-webfont.woff
-    │       ├── OpenSans-Regular-webfontd41d.eot
-    │       ├── OpenSans-Semibold-webfont.eot
-    │       ├── OpenSans-Semibold-webfont.ttf
-    │       ├── OpenSans-Semibold-webfont.woff
-    │       ├── OpenSans-Semibold-webfontd41d.eot
-    │       ├── desktop.ini
-    │       └── index.html
+Structure du dépot <br>
+: <br>
+└── webmaster-ot-martigues-apidae-for-openagenda/<br>
+    ├── README.md /* ce document */<br>
+    ├── edit.php<br>
+    ├── index.php /* formulaire de l'API <br>
+    ├── css/<br>
+    │   ├── form.css<br>
+    │   ├── icons.css<br>
+    │   ├── lightbox.css<br>
+    │   ├── style-white.css<br>
+    │   └── style.css<br>
+    ├── fonts/<br>
+    │   ├── fontawesome/<br>
+    │   │   ├── fontawesome-webfontba72.eot<br>
+    │   │   ├── fontawesome-webfontba72.ttf<br>
+    │   │   ├── fontawesome-webfontba72.woff<br>
+    │   │   └── fontawesome-webfontd41d.eot<br>
+    │   ├── icons/<br>
+    │   │   └── icon.woff<br>
+    │   └── open-sans/<br>
+    │       ├── OpenSans-Light-webfont.eot<br>
+    │       ├── OpenSans-Light-webfont.ttf<br>
+    │       ├── OpenSans-Light-webfont.woff<br>
+    │       ├── OpenSans-Light-webfontd41d.eot<br>
+    │       ├── OpenSans-Regular-webfont.eot<br>
+    │       ├── OpenSans-Regular-webfont.ttf<br>
+    │       ├── OpenSans-Regular-webfont.woff<br>
+    │       ├── OpenSans-Regular-webfontd41d.eot<br>
+    │       ├── OpenSans-Semibold-webfont.eot<br>
+    │       ├── OpenSans-Semibold-webfont.ttf<br>
+    │       ├── OpenSans-Semibold-webfont.woff<br>
+    │       ├── OpenSans-Semibold-webfontd41d.eot<br>
+        │       └── index.html<br>
     ├── img/
-    │   ├── body/
-    │   │   └── desktop.ini
-    │   └── icon/
-    │       └── desktop.ini
-    ├── js/
-    │   ├── desktop.ini
-    │   ├── easypiechart.js
-    │   ├── functions.js
-    │   ├── icheck.js
+    │   ├── body<br>
+    │   └── icon<br>
+    ├── js/<br>
+    │   ├── easypiechart.js<br>
+    │   ├── functions.js<br>
+    │   ├── icheck.js<br>
     │   ├── jquery.dataTables.js<br>
     │   ├── jquery.easing.1.3.js<br>
     │   └── summernote.js<br>
@@ -101,6 +93,8 @@ Structure du dépot
         ├── fonctions_API.php<br>
         ├── head.php<br>
         └── header_index.php <br>
+
+ <br>
 
 
 ## Installation
