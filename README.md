@@ -48,7 +48,7 @@ Structure du dépot <br>
 └── webmaster-ot-martigues-apidae-for-openagenda/<br>
     ├── README.md /* ce document */<br>
     ├── edit.php /* API export */ <br> 
-    ├── index.php /* formulaire de l'API <br> */ 
+    ├── index.php /* formulaire de l'API  */ <br>
     ├── css/<br>
     │   ├── form.css<br>
     │   ├── icons.css<br>
