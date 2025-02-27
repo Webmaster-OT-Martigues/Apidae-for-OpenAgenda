@@ -92,15 +92,15 @@ Structure du dépot
     │   ├── easypiechart.js
     │   ├── functions.js
     │   ├── icheck.js
-    │   ├── jquery.dataTables.js
-    │   ├── jquery.easing.1.3.js
-    │   └── summernote.js
-    └── pages/
-        ├── config.php
-        ├── fonction.php
-        ├── fonctions_API.php
-        ├── head.php
-        └── header_index.php
+    │   ├── jquery.dataTables.js<br>
+    │   ├── jquery.easing.1.3.js<br>
+    │   └── summernote.js<br>
+    └── pages/<br>
+        ├── config.php<br>
+        ├── fonction.php<br>
+        ├── fonctions_API.php<br>
+        ├── head.php<br>
+        └── header_index.php <br>
 
 
 ## Installation
